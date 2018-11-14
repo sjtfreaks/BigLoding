@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="主页"/>
+
+    <item
+        android:id="@+id/ic_one"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="考点"/>
+    <item
+        android:id="@+id/ic_two"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="例题"
+        />
+    <item
+        android:id="@+id/ic_user"
+        android:icon="@drawable/chat"
+        android:title="个人"
+        />
+</menu>
